@@ -152,7 +152,7 @@ environment.oh = {
 
         local gmt = getrawmetatable(game)
 
-        #setReadOnly(gmt, false) 
+        --setReadOnly(gmt, false) 
 
         if oh.Namecall then
             gmt.__namecall = oh.Namecall
