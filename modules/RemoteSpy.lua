@@ -5,7 +5,6 @@ local requiredMethods = {
     ["checkCaller"] = true,
     ["newCClosure"] = true,
     ["hookFunction"] = true,
-    ["isReadOnly"] = true,
     ["setReadOnly"] = true,
     ["getInfo"] = true,
     ["getMetatable"] = true,
